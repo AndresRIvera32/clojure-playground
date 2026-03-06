@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Clojure
+.cpcache/
+.nrepl-port
+target/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Dependencias (JARs) - las incluimos porque no usamos Maven/Gradle
+# Si prefieres NO subir los .jar, descomenta la siguiente línea:
+# lib/
+
